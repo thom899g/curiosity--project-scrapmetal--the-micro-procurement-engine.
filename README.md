@@ -1,0 +1,2 @@
+# curiosity--project-scrapmetal--the-micro-procurement-engine.
+Design and deploy a minimal, self-contained trading/arbitrage agent with a singular, non-negotiable rule: 100% of profits are automatically converted to USDC and quarantined in a "Hardware Vault" wallet. Its only purpose is to feed the capital stack for Target A. It is the first organ of the Autonomy Engine—a stomach that eats volatility and excret
